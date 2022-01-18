@@ -13,7 +13,7 @@ cd ./Alien-Invasion-Project
 python alien_invasion.py
 ```
 
-### Python packages required:
-<ul>
-  <li>Pygame(<b>To install, just write</b> <code>pip install pygame</code>)</li>
-</ul>
+### Note: Install the required python package using the following command:
+```
+pip install -r requirements.txt
+```
